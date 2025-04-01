@@ -1,0 +1,10 @@
+
+.progress-bar {
+    width: 100%; /* preenchimento da tela*/
+    background-color: #f3f3f3;
+}
+.progress {
+    width: 0%;
+    height: 30px;
+    background-color: #4caf50;
+}

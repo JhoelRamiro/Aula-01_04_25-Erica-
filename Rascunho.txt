@@ -1,5 +1,6 @@
-jkahgl
-afjlahn
 
 Teste do git hub
+
+o meterial da Erica esta no ulife
+Terminar o arquivo PraticaAula de juntar a barra de carregamento e depois aparecer o codigo da mensagem que salvei na aula de 01_04_2025
 
